@@ -6,6 +6,14 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/Marcin/CLionProjects/CircularBuffer/main.c
+stdio.h
+-
+string.h
+-
+ring_buffer_unit_test.h
+C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer_unit_test.h
+
 C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer.c
 assert.h
 -
@@ -18,20 +26,6 @@ stdint.h
 stdbool.h
 -
 stddef.h
--
-
-C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer_unit_test.c
-ring_buffer.h
-C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer.h
-ring_buffer_unit_test.h
-C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer_unit_test.h
-stdint.h
--
-stdio.h
--
-string.h
--
-inttypes.h
 -
 
 C:/Users/Marcin/CLionProjects/CircularBuffer/ring_buffer_unit_test.h

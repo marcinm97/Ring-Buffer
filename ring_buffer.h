@@ -8,7 +8,11 @@
 /** Structure describing the ring buffer. */
 typedef struct {
     /// Compose your structure here!
-    int TODO;
+    char* buffer;
+    char* head;            // pointer to control putting
+    char* tail;            // pointer to control pulling
+    size_t data_amount;    // current amount of elements in buffer
+    int capacity;
 } RingBuffer;
 
 

@@ -1,6 +1,10 @@
 #include <stdio.h>
+#include <string.h>
+#include "ring_buffer_unit_test.h"
 
 int main() {
-    printf("Hello, World!\n");
+
+    RingBuffer_UnitTest();
+
     return 0;
 }
