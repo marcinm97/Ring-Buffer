@@ -12,17 +12,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02dbc95a-34e7-4e76-8275-852924df7fbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/depend.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/main.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/objects.a" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/ring_buffer.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/ring_buffer.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/ring_buffer_unit_test.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CircularBuffer.dir/ring_buffer_unit_test.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CircularBuffer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CircularBuffer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ring_buffer.c" beforeDir="false" afterPath="$PROJECT_DIR$/ring_buffer.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ring_buffer.h" beforeDir="false" afterPath="$PROJECT_DIR$/ring_buffer.h" afterDir="false" />
     </list>
@@ -91,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1585773969127</updated>
       <workItem from="1585773971355" duration="1210000" />
-      <workItem from="1585819104635" duration="19493000" />
+      <workItem from="1585819104635" duration="21020000" />
+      <workItem from="1585906848955" duration="2446000" />
     </task>
     <servers />
   </component>

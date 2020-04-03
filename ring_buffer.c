@@ -53,7 +53,6 @@ bool RingBuffer_IsEmpty(const RingBuffer *ringBuffer)
 size_t RingBuffer_GetLen(const RingBuffer *ringBuffer)
 {
     assert(ringBuffer);
-    //assert((ringBuffer->data_amount > ringBuffer->capacity));
 
     if (ringBuffer) {
         return ringBuffer->data_amount;
@@ -87,7 +86,7 @@ bool RingBuffer_PutChar(RingBuffer *ringBuffer, char c)
         if((ringBuffer->buffer + ringBuffer->capacity) == ringBuffer->head)
             ringBuffer->head = ringBuffer->buffer;
 
-        ringBuffer->data_amount++;
+        ++ringBuffer->data_amount;
 
         return true;
     }
@@ -109,7 +108,7 @@ bool RingBuffer_GetChar(RingBuffer *ringBuffer, char *c)
         if((ringBuffer->buffer + ringBuffer->capacity) == ringBuffer->tail)
             ringBuffer->tail = ringBuffer->buffer;
 
-        ringBuffer->data_amount--;
+        --ringBuffer->data_amount;
 
         return true;
     }
